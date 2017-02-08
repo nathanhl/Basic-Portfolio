@@ -1,0 +1,152 @@
+header {
+    width: 100%;
+    height: 70px;
+    width: 100%;
+    background: white;
+    color: #FFF;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #cccccc;
+}
+
+#myname {
+    background-color: #4aaaa5;
+    width: 250px;
+    height: 70px;
+    font-family: georgia;
+    font-weight: bold;
+    font-size: 24px;
+    vertical-align: middle;
+    line-height: 70px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+nav {
+    font-family: Arial;
+    font-size: 16px;
+    color: #cccccc;
+    position: absolute; 
+    top: 25px ;
+    right: 80px;
+}
+
+.main {
+    float: relative;
+    width: 650px;
+    height: 310px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: georgia;
+    font-weight: bold;
+    color: #4aaaa5;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+img {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+
+body {
+    clear: both;
+    background-image: url('../images/asanoha-400px.png');
+    background-color: #cccccc;
+    font-size: 12px;
+    font-family: arial;
+    color: #777777;
+    min-width:960px;
+}
+
+p {
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+aside {
+    clear: both;
+    width: 270px;
+    height:100px;
+    background-color: white;
+    float: right;
+    position: absolute;
+    top: 91px;
+    right: 0px;
+    margin-right: 50px;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
+    text-align:center;
+}
+
+h3 {
+    font-size: 16px;
+    font-family: georgia;
+    font-weight: bold;
+    color: #4aaaa5;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    background-color: #666666;
+    width: 100%;
+    background: #666;
+    color: #FFF;
+    text-align: center;
+    background-color: #cccccc;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    overflow: hidden;
+    vertical-align: middle;
+    line-height: 70px;
+    border-top-style: solid;
+    border-width:10px;
+    border-color: #4aaaa5;
+}
+
+a:link {
+    color: #cccccc;
+}
+
+a:visited {
+    color: #cccccc;
+}
+
+#Forms{
+	margin-left:10px;
+	line-height: 25px;
+}
+
+#SubmitButton{
+	background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
